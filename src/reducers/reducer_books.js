@@ -3,9 +3,9 @@
  */
 export default function(){
     return [
-        {title : 'The Good one', pages: 110},
-        {title : 'The Bad one', pages: 90},
-        {title : 'The Grey one', pages: 65},
-        {title : 'The Saint one', pages: 76}
+        {title : 'Speaking Java Script', pages: 110},
+        {title : 'Backbone.js Applications', pages: 90},
+        {title : 'Up&Going JS', pages: 65},
+        {title : 'Practical Node.js', pages: 76}
     ];
 }
